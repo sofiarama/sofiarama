@@ -1,21 +1,13 @@
-# Hello! I'm Eggsy! Full Stack Developer
+Hola! Soy Sofia! estudiante de Analista en sistemas, Desarrollo web y Backend.
+
 
 ## About me
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
+Estudio para recibirme de Analista en Sistemas, pero también curso Desarrollo web y Backend, en el cual me gustaría especializar ya que disfruto programar con Java.
+Mi pasión comenzó al poder crear soluciones a problemas, que no solo sean eficientes, sino que también ofrezcan una experiencia de usuario atractiva. 
 
 ## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
-
-## languages
-
-## Hobbies
-- Dancing: ...
-
-## Technologies
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
-
-## Skills
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+Mientras continuo en mi desarrollo técnico y personal, estoy dispuesta a oportunidades o participar en proyectos colaborativos, dónde pueda contribuir con mis habilidades y, al mismo tiempo, crecer tanto personal como profesionalmente.
 
 
+Conectemos y hablemos cómo podríamos crear algo maravilloso juntos.
+Sofia.
