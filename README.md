@@ -1,4 +1,4 @@
-Hola! Soy Sofia! estudiante de Analista en sistemas, Desarrollo web y Backend.
+## Hola! Soy Sofia! estudiante de Analista en sistemas, Desarrollo web y Backend.
 
 
 ## About me
